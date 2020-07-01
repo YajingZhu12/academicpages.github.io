@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr"
+title                    : "Dr. Yajing Zhu"
 title_separator          : "-"
 name                     : &name "Yajing Zhu"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yajing Zhu"
   avatar           : "Yajing_pic.jpg"
-  bio              : "Data scientist, statistician, entrepreneur, debater and dreamer."
+  bio              : "Data scientist in personalised health care, statistician, entrepreneur, debater and dreamer."
   location         : "Cambridge"
   employer         : "Roche"
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/yajingzhu12"
+  github           : "yajingzhu12"
   google_plus      :
   keybase          :
   instagram        :
