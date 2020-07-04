@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://drive.google.com/file/d/1VhHJJAU2EzGLAEMmTE80icKuj-_gMtX0/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1VhHJJAU2EzGLAEMmTE80icKuj-_gMtX0/preview" width="800px" height="2000px"></iframe>
