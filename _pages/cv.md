@@ -8,7 +8,7 @@ redirect_from:
 output:
   pdf_document:
     includes:
-      in_header: "test.tex"
+      in_header: "CV.tex"
 ---
 
 {% include base_path %}
