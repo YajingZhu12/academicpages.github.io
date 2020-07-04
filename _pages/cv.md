@@ -5,6 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+output:
+  pdf_document:
+    includes:
+      in_header: "test.tex"
 ---
 
 {% include base_path %}
