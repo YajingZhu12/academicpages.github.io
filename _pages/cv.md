@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="CV_July2020.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1VhHJJAU2EzGLAEMmTE80icKuj-_gMtX0/preview" width="100%" height="100%"></iframe>
